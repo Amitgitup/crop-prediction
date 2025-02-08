@@ -1,0 +1,96 @@
+/* body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background: url('farm.jpg') no-repeat center center/cover;
+    color: white;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/* Form Container */
+/* .container {
+    background: rgba(0, 0, 0, 0.7);
+    padding: 20px;
+    border-radius: 10px;
+    width: 400px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+    text-align: center;
+}
+
+h1 {
+    margin-bottom: 20px;
+    font-size: 24px;
+}
+
+label {
+    display: block;
+    text-align: left;
+    margin-top: 10px;
+    font-size: 14px;
+}
+
+input, select {
+    width: 100%;
+    padding: 10px;
+    margin-top: 5px;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+}
+
+button {
+    margin-top: 15px;
+    padding: 10px 20px;
+    border: none;
+    background: #28a745;
+    color: white;
+    font-size: 18px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover {
+    background: #218838;
+} */ 
+
+
+body{
+    background-image: url("farm.jpg");
+    margin: 100px 150px 100px 500px;
+}
+
+h1{
+    margin-left: 100px;
+}
+
+input{
+    width: 70%;
+    padding: 12px 20px;
+    margin: 8px 0px 5px 10px;
+    box-sizing: border-box;
+    border-bottom: 4px solid black;
+}
+
+button{
+    background-color: #4CAF50;
+    margin: auto;
+    color:white;
+    padding: 15px 100px;
+    text-align: center;
+    text-decoration: none; 
+    display:inline-block;
+    font-size: 16px;
+    margin-left: 170px;
+}
+
+button:hover{
+    background: #218838;
+}    
+
+#predi{
+    margin: 10 0 0 60px;
+    color:white;
+}
